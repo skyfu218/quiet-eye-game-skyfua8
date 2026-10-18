@@ -24,3 +24,10 @@ python3 -m http.server 4173
 ## 教學邊界
 
 遊戲以滑鼠、觸控或鍵盤操作模擬注意力轉移、追蹤與穩定準備歷程。遊戲中的「跳視轉移時間」是準星操作代理指標，未使用眼動儀，不能當作真實眼球跳視、Quiet Eye、神經功能、選手能力或醫療評估結果。
+
+## 發布設定
+
+- Firebase project：`sports-intel-skyfu218`
+- 獨立 Hosting site：`quiet-eye-skyfua8`
+- 正式網址：<https://quiet-eye-skyfua8.web.app>
+- 不使用資料庫、登入、攝影機或麥克風。

@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "quiet-eye-skyfua8",
     "public": ".",
     "ignore": [
       "firebase.json",
